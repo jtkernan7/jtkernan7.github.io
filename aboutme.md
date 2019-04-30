@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: keep flowing
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is John Timothy Kernan Jr. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a philosopher 
+- I am studying Data Science at Lambda School
+- Working to help create a sustainable future
 
 What else do you need?
 
